@@ -1,0 +1,6 @@
+{
+  "name": "YMOBD XU7",
+  "description": "Smart OBD2 Diagnostics, Live Dashboard, ECU Configuration & AI Trouble Code Analysis for Iran Khodro XU7 and Siemens ECUs",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
